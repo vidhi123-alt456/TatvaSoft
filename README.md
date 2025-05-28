@@ -11,4 +11,4 @@
 - Explored Angular framework and built a basic app.
 - Created a login page with forms and components.
 - Hands-on experience with Angular CLI and component creation.
->>>>>>> 552fc6bb05cb6545e4572aec8fbeae95ac41df12
+
