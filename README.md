@@ -1,4 +1,3 @@
-
 # TatvaSoft
 # Summer Internship Training – 2025
 
@@ -11,4 +10,12 @@
 - Explored Angular framework and built a basic app.
 - Created a login page with forms and components.
 - Hands-on experience with Angular CLI and component creation.
+
+## Day 3: Introduction to .NET and CRUD Implementation
+- Understood .NET framework and Web API fundamentals.
+- Explored Swagger for API documentation and testing.
+- Learned about N-tier architecture using Repository pattern and Entity Framework (EF) for data access.
+- Hands-on: Implemented a Book Management system performing full CRUD operations.
+- Gained experience with project structure, EF migrations, and RESTful API development.
+
 
